@@ -1,1 +1,3 @@
-# knapsack
+# 0-1 Knapsack approximate solution
+
+
