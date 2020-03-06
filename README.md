@@ -2,7 +2,7 @@
 
 This repository contains 0-1 Knapsack problem approximate solution written in __Rust__. Algorithm description and benchmarks can be found in this [file](https://github.com/isadrtdinov/knapsack/blob/master/knapsack_solution.pdf).
 
-Requiremenrs: __rust__, __cargo__.
+*Requirements*: __rust__, __cargo__.
 
 To run algorithm on supplied tests:
 
