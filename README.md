@@ -6,6 +6,6 @@ This repository contains 0-1 Knapsack problem approximate solution written in __
 
 To run algorithm on supplied tests:
 
-`cargo run --release < data/<test_no>.public`
+ > cargo run --release < data/`<test_no>`.public
 
 `<test_no>` denotes a number of test to run, valid possibilities: `01`, `02`, ..., `09`, `10`
