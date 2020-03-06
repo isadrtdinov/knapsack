@@ -1,6 +1,6 @@
 ## 0-1 Knapsack problem approximate solution
 
-This repository contains 0-1 Knapsack problem approximate solution written in __Rust__. Algorithm description and benchmarks can be found in this [file](https://github.com/isadrtdinov/knapsack/blob/master/knapsack_solution.pdf).
+This repository contains 0-1 Knapsack problem approximate solution written in __Rust__. Algorithm description and benchmarks can be found in this [*file*](https://github.com/isadrtdinov/knapsack/blob/master/knapsack_solution.pdf).
 
 *Requirements*: __rust__, __cargo__.
 
